@@ -1,0 +1,32 @@
+{
+  "name": "react-rubaxa-sortable",
+  "version": "0.1.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomatau/react-rubaxa-sortable.git"
+  },
+  "dependencies": {
+    "object-assign": "^2.0.0",
+    "react": "^0.12.2",
+    "sortablejs": "^1.0.0"
+  },
+  "scripts": {
+  },
+  "gitHead": "f8ea55a77837495cbb53e92c5830681d8fd03699",
+  "description": "Sortable --- [Sortable](https://github.com/RubaXa/Sortable) is a minimalist library for rearranging items in lists. - [Sortable demo](http://rubaxa.github.io/Sortable/)",
+  "bugs": {
+    "url": "https://github.com/tomatau/react-rubaxa-sortable/issues"
+  },
+  "homepage": "https://github.com/tomatau/react-rubaxa-sortable",
+  "_id": "react-rubaxa-sortable@0.1.3",
+  "_from": "react-rubaxa-sortable@",
+  "_npmVersion": "2.1.18",
+  "_nodeVersion": "0.10.35",
+  "maintainers": [
+    {
+      "name": "tomatau",
+      "email": "tom@wizenoze.com"
+    }
+  ],
+  "directories": {}
+}
